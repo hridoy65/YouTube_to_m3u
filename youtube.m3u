@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756350504/ei/yHOvaKnLH8bClu8PzLvSwQQ/ip/40.65.58.128/id/Fr7ZcNnrGMM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51569638/txs/51569633%2C51569634%2C51569635%2C51569636%2C51569637%2C51569638%2C51569639/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLPBZTwJojByfZNkodBNNHLpCxEYbJiHBsYzKjzeukObVMz9FA5I5Tn9EB4TTq5RmRP_ojdDx28Z/spc/l3OVKaZOx3GlnFLTsnXrPv5uIQRE3px1JUEfi-FO0us-mWwhraSEAEIoQcxdAP-3cS8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOxk3i6uAoUbTooAegbzS96pdjEUqGmauXACRmXkUerbAiEAlI9Ntxlx2Q3YN4BIMWP7PPMe4gw7sDMZjLjiSmpPAnU%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -438,7 +438,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756363612/ei/_KavaLjlDLSR2_gPju2_OA/ip/172.212.167.82/id/Lf_D4Te9LNE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567917/txs/51567915%2C51567916%2C51567917/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOaiOFHhuvd9wC_q2p0_Unft4uijJe_lhE_CDKJ5iZ_kUbNVq7aPlfoumEBMa4_bLeM2R44XcUl/spc/l3OVKQZvuriuy9WDxZMLLdnf2LGRoBatOb1XMGDQUBsIF3-vAtdxwQQkW00wBtJm1IA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKcxaJEkEBneRue_B5TzHBHj1zqKcv-s_mNixdn34FdGAiA15_pahPXSoSRP7-JbtsUttK90sk6FWUa0y8UlMSAgGw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
