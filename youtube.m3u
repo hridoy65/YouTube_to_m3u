@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764644951/ei/9wMuacuPA-SN2_gP1oHu0Qk/ip/64.236.153.144/id/d0dB3kSCMmM.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TPc_Wr4r_2FEJEMvu-La1NcdQJn-ZhubbveikqSpSez-XtfnC2kyk-ZTYq2Cson9EXXzTnrgkq/spc/6b0G_G6rewkFmkpa8n1lmYdujo4xs_FgPilYloYhudsH3y0o9ZH6o3BSm2hUBfOOtI0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOlh1YZ4bOydXAdH23rs2eZvKgU56odFZcW1uCYakrIJAiEA4ImbQCYzCjKCZ5Qe6CY5NuIVjvAIGOoGp72gn9XBMvc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
