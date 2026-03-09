@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773102913/ei/4RKvafXtCYaNybgPice8kAM/ip/52.173.181.22/id/YGEgelAiUf0.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/maudio/1/bui/AVNa5-zRc0OwrJ29k0v-MzTbW1d6TfKOlQwHPxPp6b4M60i8ipPWr1hOX9lnbscvHY_M8isV0KskdsZP/spc/6dlaFMBsHo9lrK8w6fwGgDDG8_lCC3XyVKIiZv22pF3MRvK3RJbv3nh8iX3ICDA02rCvlw/vprv/1/go/1/ns/FxV2sMVu5VQp3jVMx70iFC4T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/7RRVIvXrLK40rOm/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAIJ92V1_6jkvCPBxtbvepMoAoFm98kWaDRpufjq7jauJAiA03cDPEJkFYo5iPfN7lhsqpz3LF1CYW9ECjaFfgClXeA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png" tvg-id="", Media One News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773102979/ei/IxOvaYarI6Cg-coPnZ3QwQM/ip/52.173.181.22/id/d0dB3kSCMmM.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794309/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-zaUunw-AQedlXkIIn678S0dU7TcTGp50JCMw745oxKa3PsChN7U44MutzOVogz_EL-TwNJJSZc/spc/6dlaFDz-i-1l1mzw0DGDOieKt05ZgT677ZcUhT5MFjMBnfAFDGIjBQ5v1eGb9HS4jNHReg/vprv/1/go/1/ns/uSWuySDEwc8MG_tKK_5atEwT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/_tm7eqWn3iz166jp/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOFuzm0Dfu8u3fabS2tEa0I1zKeqKi1bGQ6m-3-FWBVHAiBwIGCo93B20lalbTBfzWAHeWT_LhsJ0nqoJdXI_Rydag%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
