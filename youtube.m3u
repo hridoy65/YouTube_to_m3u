@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775176757/ei/1bfOaerDH8ylir4P4eCbwQI/ip/135.232.200.192/id/VNzHENanD0g.62/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828961/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGI2M5yOD6RifB3Tw-2HIq50Y7DXF2DUQH6ijfNBxjtRHnp5k5-L13liExUwFTC5SHn0K9kgnsmL/spc/jlWavfiHKs7i3NNe5ohMfxLzizZoUhxzsTx6-sEMR7UJ-HUA4Ki-zsMH45-rPW_CtTg8OA/vprv/1/go/1/ns/ESEkZoc9XkpkqHrwyEoov18T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/R3fvsowCJuhsdSlhJlvI/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgCVpvsGgOq2re6KMd7crPi53stMD87_lOYFftNHJAHoACIAdGGFxLjBoGuIja-Er1xFO8QN58jpl4eyo-KflDGJns/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -324,7 +324,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775176851/ei/MrjOaeyoO4DwybgPzP2UgA4/ip/135.232.200.192/id/LuKwFajn37U.92/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGK79Wq7fYOnq_Lk4F7Ebj2jpCxrvmZ2W37I4eLuWojj26MUW_UrmUbcoAP3EyR0iuBs23Po9QPO/spc/jlWava298ZECpo2HxZW2UsNR4yu-9dnqH0dNPB9XEBKiUEWRDuvIDDRwzIrMHzyRLkVgPQ/vprv/1/go/1/ns/suJP0sDW-Jgh5t9aaP7WnN4T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/OwcoKvr4YatAzkJHONdz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOo9sTYM1Ragui_O0QRSJJj9aLYu-zv5L7V5UtMLqZsAAiBMLD9cXDPugN0XtijXtx7BqJiLEfB5qxNWfJXZcMnDFQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -480,4 +480,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775176915/ei/c7jOafSjIvnHybgP743nkAo/ip/135.232.200.192/id/qly2I6tZRnI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AUUZDGK2DlAXsB96FjsosvNRJIcUewyjIt7N_OiqM6TmkMH-BdBaA2oCFamF1hmSYxbipums-e_nEZ7Q/spc/jlWavd9SnOMFb2wmxuRcRg8g9QTs_FimY360K_XnkZUShGygVtAJZ4JKNqP4iPg0S1rXxw/vprv/1/go/1/ns/I0p2Y_r83DPMphrefQQVzsYT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/KKnA4r6k7doCAAHHkISs/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhALYKnPUHrZWAIqHcq83VAP2GeHTrBJ7R75jVD--JTGOaAiAEcRw3TG7zE8lYt9uGJxfxm4VpdW3q1rElc-c1wm6P3A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
