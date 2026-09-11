@@ -405,7 +405,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1789171224/ei/uEGkauOnB7iR-coPnMuz2Qo/ip/52.159.245.151/id/T4XZmMPQ9Kw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AR3QkAmcg7_ZxASxte90ORw72bCVt3LiXq3uZP1yPm-mu4FX4CICDTY-1A5ORJK6Pl49O943iCqBmSrf/spc/I-rgITUFsHckYgobFDLHNuTfYHO_91yLeZquMVoAvze4Gf9ydKEd4zya2E5521q1Fh4KIcdS/vprv/1/go/1/ns/ozpu5D4nZkf3OT-Lygq5Ma0Y/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52135441/dover/11/n/5jyUYT1ehmj506Gv/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAKDpCS9vBs74pAtnVq96Lkv1zoEW1xirg1G7ZGdyRsz-AiEAqh5dsecValOlPmaxcf6P71tB0ykrIJkEAyjdsZnBTiI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
